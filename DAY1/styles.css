@@ -1,6 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
 body{
-    background-image: url(https://wallpapercave.com/wp/wp2757868.gif);
-    display: flex;
+    background-image: url(Files/Background_GIF.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
     justify-content: center;
+    display: flex;
     align-items: center;
+    height: 80vh;
 }   
+section{
+    font-family: 'Pixelify Sans', sans-serif;
+    display: block;
+}
+.Bar{
+    background-color: whitesmoke ;
+    width: 620px;
+    height: 35px;   
+    margin: 0px;
+
+    border-radius: 10px;
+    border: 2px solid #31b30a;
+    display: flex;
+}
+.Bar .icon{
+    margin-top: 3px;
+    width: 30px;
+    height: 30px;
+    border-radius: 40%; 
+    margin-right: 10px; 
+    transition: background-color 0.2s; 
+
+}
+.icon:hover{
+    cursor:pointer;
+}
+.icon.c1{
+   background-image: url(Files/colossus1.png) ;
+   background-size: cover;
+
+}
+.icon.c2{
+    background-image: url(Files/colossus2.png);
+    background-size: cover;
+}
+.icon.c3{
+    background-image: url(Files/colossus3.png);
+    background-size: cover;
+}
+.terminal_txt{
+    width: 580px;
+    height: 200px;
+    margin: auto;
+    padding: 20px;
+    border: 0px;
+    background-color: #00000092;
+    color:#dfdfdf;
+    display: block;
+    border-radius: 2%;
+}
+.terminal_pwd{
+    color: greenyellow;
+}
+.comment{
+    color: greenyellow;
+}
+.codingC{
+    color: #d2d2d2;
+    display: block;
+    white-space: nowrap;
+    border-right: 5px solid;
+    width: 18ch;
+    animation: typing 2s steps(18),
+    blink .5s step-end infinite alternate;
+    overflow: hidden;
+}
+.codingCplus{
+    color: #d2d2d2;
+    display: block;
+    white-space: nowrap;
+    border-right: 5px solid;
+    width: 24ch;
+    animation: typing 2s steps(24),
+    blink .5s step-end infinite alternate;
+    overflow: hidden;
+}
+@keyframes typing{
+    from{
+        width: 0;
+    }
+}
+@keyframes blink{
+    50% { border-color: transparent;}
+}
