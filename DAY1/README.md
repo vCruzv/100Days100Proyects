@@ -7,7 +7,7 @@ Welcome to the first project of day 1.
  The goal of this exercise was to create a terminal that would print 'Hello World' in the languages we know. My terminal is inspired by the game 'Shadow of The Colossus.' See you later
  -Cruz
 
-https://github.com/vCruzv/100Days100Proyects/assets/148888791/56e07a21-1aec-4dcb-a7d5-77b594e52938
+https://github.com/vCruzv/100Days100Proyects/assets/148888791/f2a7b197-c57e-4a7e-8150-962e43e0460a
 
 
 <h3 align="left">Connect with me:</h3>
