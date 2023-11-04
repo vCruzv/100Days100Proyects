@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&display=swap');
+body{
+    background-image: url(Files/montains.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}   
+.card{
+    background-color:#b8e2f4 ;
+    width: 300px;
+    height: 600px;
+    display: block;
+    overflow: hidden;
+    text-align: center;
+    border-style:solid;
+    border-color: white;
+    border-radius: 25px;
+}
+
+
+.card .cartop{
+    height: 250px;
+    width: 400px;
+    background-color: cadetblue;
+    align-items: center;
+    justify-content: center;
+    margin-left: -20px;
+    margin-bottom: 200px;
+    margin-top: -150px;
+    box-shadow: 0 3px 15px white;
+    transform: rotate(20deg);
+    position: relative;
+}
+.card  img{
+    height: 75px;
+    width: 75px;
+    border: none;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 60px;
+    box-shadow: 0 2px 15px #4194cb;  
+    position: absolute;  
+    z-index: 1;
+}
+.card .text{
+    font-family: 'Belanosima', sans-serif;
+}
+
+.socialMedia{
+        height: 100px;
+        width: 100%;
+        display: block;
+}
+.socialMedia .icons{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.socialMedia .icons i{
+    font-size: 50px;
+    color: white;
+    margin-right: 20px;
+    cursor: pointer;
+}
+h1{
+    color: white;
+    margin-top: -100px; 
+ }
+ h3{
+    color: darkcyan;
+ }
+ p{
+    color: darkslategrey;
+ }
+h4{
+    color: darkcyan;
+}
