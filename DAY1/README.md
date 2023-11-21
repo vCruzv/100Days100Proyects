@@ -12,9 +12,9 @@ https://github.com/vCruzv/100Days100Proyects/assets/148888791/f2a7b197-c57e-4a7e
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-    <a href="https://www.instagram.com/lapanteramora___/" />
+    <a href="https://www.instagram.com/lapanteramora___/" target="_blank"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-            <a href="https://www.facebook.com/profile.php?id=100074619822824"/>
+            <a href="https://www.facebook.com/profile.php?id=100074619822824" target="_blank"git/>
                 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 
 <h3 align="left">Languages and Tools:</h3>
