@@ -10,9 +10,9 @@ The objective of this practice is to create a business card in which I only incl
 ![card](https://github.com/vCruzv/100Days100Proyects/assets/148888791/994cdacf-9a94-4a4f-960f-090e15458175)
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-    <a href="https://www.instagram.com/lapanteramora___/" target="_blank" />
+    <a href="https://www.instagram.com/lapanteramora___/" target="_blank" rel="instragram"/>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-            <a href="https://www.facebook.com/profile.php?id=100074619822824"/ target="_blank">
+            <a href="https://www.facebook.com/profile.php?id=100074619822824" target="_blank" rel="facebook"/>
                 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 
 <h3 align="left">Languages and Tools:</h3>
