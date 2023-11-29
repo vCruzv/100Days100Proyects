@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="287.0" prefWidth="439.0" stylesheets="@../../../styles.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.divisas.converterdiv.ConverController">
+   <children>
+         <Button layoutX="91.0" layoutY="225.0" mnemonicParsing="false" onAction="#onClearFieldsClick" text="Clear" />
+         <Button layoutX="312.0" layoutY="225.0" mnemonicParsing="false" onAction="#onCalculate" text="Convert" />
+         <ChoiceBox fx:id="select1" layoutX="42.0" layoutY="96.0" prefWidth="150.0" />
+         <ChoiceBox fx:id="select2" layoutX="42.0" layoutY="165.0" prefWidth="150.0" />
+         <TextField fx:id="input1" layoutX="264.0" layoutY="96.0" />
+         <TextField fx:id="input2" layoutX="264.0" layoutY="165.0" />
+         <Label fx:id="text" layoutX="206.0" layoutY="52.0" textFill="WHITE">
+         <font>
+            <Font name="Arial" size="12.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>

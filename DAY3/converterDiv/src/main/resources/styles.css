@@ -1,0 +1,27 @@
+/* Estilo para el Pane */
+.root {
+    -fx-background-color: #333333; /* Color del Pane */
+}
+
+/* Estilo para TextField, ChoiceBox, Button, etc. */
+.choice-box, .button {
+    -fx-background-color: transparent; /* Fondo transparente para TextField, ChoiceBox, Button */
+    -fx-border-color: white;
+    -fx-text-fill: white;
+}
+.text-field{
+    -fx-text-fill: black;
+}
+
+/* Estilo específico para los elementos de clase input2 y input1 */
+#input1, #input2 {
+    -fx-background-color: white; /* Color de fondo específico para input1 e input2 */
+}
+.choice-box .label {
+    -fx-text-fill: white; /* Color de texto para el contenido del ChoiceBox */
+}
+
+.choice-box .menu-item {
+    -fx-background-color: #333333;
+    -fx-text-fill: white; /* Color de texto para los elementos del ChoiceBox */
+}
