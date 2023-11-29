@@ -16,3 +16,5 @@ Hi, this is my project for day 3. It's not very optimized and maybe it's missing
                 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
                 </a>
 <h3 align="left">Languages and Tools:</h3>
+
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70px" height="70px"/>
