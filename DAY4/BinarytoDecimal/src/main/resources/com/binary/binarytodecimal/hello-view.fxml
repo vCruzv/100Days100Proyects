@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="141.0" prefWidth="465.0" stylesheets="@styles.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.binary.binarytodecimal.BinaryController">
+   <children>
+      <Pane prefHeight="170.0" prefWidth="442.0">
+         <children>
+            <Button layoutX="89.0" layoutY="81.0" mnemonicParsing="false" onAction="#onActionDtoB" text="D to B" />
+            <TextField fx:id="input1" layoutX="34.0" layoutY="46.0" />
+            <TextField fx:id="input2" layoutX="271.0" layoutY="46.0" />
+            <Label fx:id="text" layoutX="212.0" layoutY="14.0" />
+            <Button layoutX="319.0" layoutY="81.0" mnemonicParsing="false" text="B to D" onAction="#onActionBtoD" />
+         </children>
+      </Pane>
+   </children>
+</VBox>
