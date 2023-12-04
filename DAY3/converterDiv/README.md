@@ -5,7 +5,7 @@
 
 Hi, this is my project for day 3. It's not very optimized and maybe it's missing some things, but I'll be improving it as I learn more Java. It's a bit challenging for me since it's an entirely new language.
 
-
+https://github.com/vCruzv/100Days100Proyects/assets/148888791/93c53137-9f4c-4b73-af5e-0a110ab1b5d4
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
